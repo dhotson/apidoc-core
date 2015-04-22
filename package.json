@@ -33,7 +33,6 @@
   },
   "dependencies": {
     "lodash": "~2.4.1",
-    "semver": "~4.2.0",
     "wrench": "~1.5.8"
   },
   "devDependencies": {
